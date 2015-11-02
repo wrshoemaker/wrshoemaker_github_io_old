@@ -1,1 +1,0 @@
-# wrshoemaker.github.io
