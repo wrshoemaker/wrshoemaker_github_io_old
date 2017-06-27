@@ -13,10 +13,10 @@
     
     <item>
       <title>#1 Blog post</title>
-      <link>/post/chapter-5/</link>
+      <link>/post/number_1/</link>
       <pubDate>Fri, 14 Apr 2017 21:58:00 -0500</pubDate>
       
-      <guid>/post/chapter-5/</guid>
+      <guid>/post/number_1/</guid>
       <description>Just got my personal website up and running thanks to Hugo and the excellent documentation provided by blogdown. Aiming to infrequently post updates, bits of cool code, etc. here.</description>
     </item>
     
